@@ -1,4 +1,56 @@
 # DataDiveFa24
-Hey guys this is jsut a test, seeing if I can try to push something
 
-Ok this is another thing of note, before you work on the project, pull the files to make sure you're up to date. Be sure to also communicate if you are working on the project and what changes you've made, as well as make sure your git commit -m message is detailed enough for us all to get what happened and stuff like that. 
+## Steps When Logging On
+
+1. **Check Current Branch**
+   - Determine which branch you are currently on:
+     ```bash
+     git branch  # or use git status
+     ```
+
+2. **Switch to Main Branch**
+   - If you're not on the `main` branch, switch to it:
+     ```bash
+     git checkout main
+     ```
+
+3. **Pull Latest Changes**
+   - Fetch and merge the latest changes from the remote `main` branch:
+     ```bash
+     git pull origin main
+     ```
+
+4. **Switch to Your Branch**
+   - Now, switch back to your working branch:
+     ```bash
+     git checkout <branch-name>
+     ```
+
+5. **Merge Changes into Your Branch**
+   - Merge any changes from `main` into your branch:
+     ```bash
+     git merge main
+     ```
+
+## Make Your Changes
+- Edit your files in your code editor as needed.
+
+## Check Status
+- Before committing, check the status of your changes:
+  ```bash
+  git status
+  ```
+
+  ## Stage Changes
+  - Stage files you want to commit:
+  ```bash
+  git add <file_name> # or git add -A to add all changes
+  ```
+  - Commit changes:
+  ```bash
+  git commit -m "Add a detailed message of your changes here"
+  ```
+  - Push your changes:
+  ```bash
+  git push
+  ```
