@@ -1,4 +1,17 @@
 # DataDiveFa24
-Hey guys this is jsut a test, seeing if I can try to push something
+Steps when logging on:
+    1. Check what branch you are on (git branch or git status)
+    2. Switch to main branch if not already in it (git checkout main)
+    3. Pull latest changes (git pull origin main)
+    4. Switch to your branch (git checkout <branch-name>)
+    5. Merge changes into your branch (git merge main)
 
-Ok this is another thing of note, before you work on the project, pull the files to make sure you're up to date. Be sure to also communicate if you are working on the project and what changes you've made, as well as make sure your git commit -m message is detailed enough for us all to get what happened and stuff like that. 
+Make your changes
+
+Check Status
+    * Before committing check the status (git status) of your changes
+
+Stage Changes
+    1. Stage files you want to commit (git add <file-name> or git add -A {to add all changes})
+    2. Commit changes (git commit -m "Add a detailed message of your changes here")
+    3. Push your changes (git push origin <branch-name>)
