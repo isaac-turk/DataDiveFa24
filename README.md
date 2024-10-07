@@ -14,4 +14,4 @@ Check Status
 Stage Changes
     1. Stage files you want to commit (git add <file-name> or git add -A {to add all changes})
     2. Commit changes (git commit -m "Add a detailed message of your changes here")
-    3. Push your changes (git push origin <branch-name>)
+    3. Push your changes (git push)
