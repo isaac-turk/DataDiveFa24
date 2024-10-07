@@ -41,16 +41,16 @@
   git status
   ```
 
-  ## Stage Changes
-  - Stage files you want to commit:
+## Stage Changes
+- Stage files you want to commit:
   ```bash
   git add <file_name> # or git add -A to add all changes
   ```
-  - Commit changes:
+- Commit changes:
   ```bash
   git commit -m "Add a detailed message of your changes here"
   ```
-  - Push your changes:
+- Push your changes:
   ```bash
   git push
   ```
