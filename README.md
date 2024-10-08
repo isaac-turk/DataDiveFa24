@@ -50,6 +50,14 @@
   ```bash
   git commit -m "Add a detailed message of your changes here"
   ```
+- Check for any new changes in our remote repo:
+  ```bash
+  git fetch origin main
+  ```
+  - **If there are new changes** in the remote main branch, merge them into your branch to ensure you're up to date:
+    ```bash
+    git merge main
+    ```
 - Push your changes:
   ```bash
   git push
@@ -59,10 +67,10 @@
 
 - When making a pull request, be sure to:
 
-  1. Ensure your branch is up to date with the `main` branch.
+1. Ensure your branch is up to date with the `main` branch.
 
-  2. Add detailed information about the changes you've made.
+2. Add detailed information about the changes you've made.
 
-  3. **Add Isaac as a reviewer to the pull request.**
-  
-  4. I'll approve it or make comments and have you keep working on your feature.
+3. **Add Isaac as a reviewer to the pull request.**
+
+4. I'll approve it or make comments and have you keep working on your feature.
