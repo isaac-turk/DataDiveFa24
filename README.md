@@ -33,7 +33,7 @@
      ```
 
 ## Make Your Changes
-- Edit your files in your code editor as needed.
+Edit your files in your code editor as needed.
 
 ## Check Status
 - Before committing, check the status of your changes:
@@ -63,9 +63,9 @@
   git push
   ```
 
-  ## Pull Request Process
+## Pull Request Process
 
-- When making a pull request, be sure to:
+When making a pull request, be sure to:
 
 1. Ensure your branch is up to date with the `main` branch.
 
