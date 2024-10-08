@@ -54,3 +54,15 @@
   ```bash
   git push
   ```
+
+  ## Pull Request Process
+
+- When making a pull request, be sure to:
+
+  1. Ensure your branch is up to date with the `main` branch.
+
+  2. Add detailed information about the changes you've made.
+
+  3. **Add Isaac as a reviewer to the pull request.**
+  
+  4. I'll approve it or make comments and have you keep working on your feature.
