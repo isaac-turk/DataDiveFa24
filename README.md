@@ -73,4 +73,4 @@ When making a pull request, be sure to:
 
 3. **Add Isaac as a reviewer to the pull request.**
 
-4. I'll approve it or make comments and have you keep working on your feature.
+4. I'll approve it or make comments to have you keep working on your feature.
