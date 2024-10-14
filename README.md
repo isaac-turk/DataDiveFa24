@@ -52,11 +52,11 @@ Edit your files in your code editor as needed.
   git checkout <branch-name>
   git merge main
   ```
+- **IF THERE ARE ANY CONFLICTS STOP AND TEXT THE GC SO WE CAN RESOLVE IT**
 - Stage files you want to commit:
   ```bash
   git add <file_name> # or git add -A to add all changes
   ```
-- **IF THERE ARE ANY CONFLICTS STOP AND TEXT THE GC SO WE CAN RESOLVE IT**
 - Commit changes:
   ```bash
   git commit -m "Add a detailed message of your changes here"
