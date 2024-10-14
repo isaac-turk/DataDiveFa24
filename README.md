@@ -56,6 +56,7 @@ Edit your files in your code editor as needed.
   ```bash
   git add <file_name> # or git add -A to add all changes
   ```
+- **IF THERE ARE ANY CONFLICTS STOP AND TEXT THE GC SO WE CAN RESOLVE IT**
 - Commit changes:
   ```bash
   git commit -m "Add a detailed message of your changes here"
@@ -73,6 +74,6 @@ When making a pull request, be sure to:
 
 2. Add detailed information about the changes you've made.
 
-3. **Add Isaac as a reviewer to the pull request.**
+3. **ADD ISAAC AS A REVIEWER TO THE PULL REQUEST.**
 
 4. I'll approve it or make comments to have you keep working on your feature.
