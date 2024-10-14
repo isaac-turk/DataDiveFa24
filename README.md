@@ -42,6 +42,16 @@ Edit your files in your code editor as needed.
   ```
 
 ## Stage Changes
+- First, ensure your local branch is up to date with main
+  ```bash
+  git checkout main
+  git fetch origin main
+  ```
+- Switch to your feature branch then merge any changes
+  ```bash
+  git checkout <branch-name>
+  git merge main
+  ```
 - Stage files you want to commit:
   ```bash
   git add <file_name> # or git add -A to add all changes
@@ -50,14 +60,6 @@ Edit your files in your code editor as needed.
   ```bash
   git commit -m "Add a detailed message of your changes here"
   ```
-- Check for any new changes in our remote repo:
-  ```bash
-  git fetch origin main
-  ```
-  - **If there are new changes** in the remote main branch, merge them into your branch to ensure you're up to date:
-    ```bash
-    git merge main
-    ```
 - Push your changes:
   ```bash
   git push
