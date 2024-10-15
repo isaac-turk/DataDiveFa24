@@ -1,0 +1,32 @@
+G,Date,Time,Type, ,Opponent,Conf,SRS, ,Tm,Opp,OT,W,L,Streak,Arena
+1,"Tue, Nov 5, 2019",8:00p,REG,,Nicholls State,Southland,-3.87,W,78,70,OT,1,0,W 1,State Farm Center
+2,"Fri, Nov 8, 2019",9:00p,REG,@,Grand Canyon,WAC,-6.32,W,83,71,,2,0,W 2,Grand Canyon University Arena
+3,"Sun, Nov 10, 2019",9:00p,REG,@,Arizona (21),Pac-12,19.49,L,69,90,,2,1,L 1,McKale Center
+4,"Mon, Nov 18, 2019",8:00p,REG,,Hawaii,Big West,-1.27,W,66,53,,3,1,W 1,State Farm Center
+5,"Wed, Nov 20, 2019",9:00p,REG,,The Citadel,Southern,-13.82,W,85,57,,4,1,W 2,State Farm Center
+6,"Sat, Nov 23, 2019",8:00p,REG,,Hampton,Big South,-12.02,W,120,71,,5,1,W 3,State Farm Center
+7,"Tue, Nov 26, 2019",8:00p,REG,,Lindenwood,,,W,117,65,,6,1,W 4,State Farm Center
+8,"Mon, Dec 2, 2019",7:00p,REG,,Miami (FL),ACC,6.63,L,79,81,,6,2,L 1,State Farm Center
+9,"Sat, Dec 7, 2019",5:00p,REG,@,Maryland (3),Big Ten,17.82,L,58,59,,6,3,L 2,Xfinity Center
+10,"Wed, Dec 11, 2019",9:00p,REG,,Michigan (5),Big Ten,17.94,W,71,62,,7,3,W 1,State Farm Center
+11,"Sat, Dec 14, 2019",6:00p,REG,,Old Dominion,CUSA,0.02,W,69,55,,8,3,W 2,State Farm Center
+12,"Sat, Dec 21, 2019",1:00p,REG,N,Missouri,SEC,8.51,L,56,63,,8,4,L 1,Enterprise Center
+13,"Sun, Dec 29, 2019",2:00p,REG,,North Carolina A&T,MEAC,-9.66,W,95,64,,9,4,W 1,State Farm Center
+14,"Thu, Jan 2, 2020",8:00p,REG,@,Michigan State (14),Big Ten,21.92,L,56,76,,9,5,L 1,Breslin Student Events Center
+15,"Sun, Jan 5, 2020",8:00p,REG,,Purdue,Big Ten,16.30,W,63,37,,10,5,W 1,State Farm Center
+16,"Wed, Jan 8, 2020",9:00p,REG,@,Wisconsin,Big Ten,15.95,W,71,70,,11,5,W 2,Kohl Center
+17,"Sat, Jan 11, 2020",12:00p,REG,,Rutgers,Big Ten,15.72,W,54,51,,12,5,W 3,State Farm Center
+18,"Sat, Jan 18, 2020",5:00p,REG,,Northwestern,Big Ten,5.35,W,75,71,,13,5,W 4,State Farm Center
+19,"Tue, Jan 21, 2020",7:00p,REG,@,Purdue,Big Ten,16.30,W,79,62,,14,5,W 5,Mackey Arena
+20,"Sat, Jan 25, 2020",12:00p,REG,@,Michigan,Big Ten,17.94,W,64,62,,15,5,W 6,Crisler Center
+21,"Thu, Jan 30, 2020",7:30p,REG,,Minnesota,Big Ten,16.39,W,59,51,,16,5,W 7,State Farm Center
+22,"Sun, Feb 2, 2020",1:00p,REG,@,Iowa (18),Big Ten,16.07,L,65,72,,16,6,L 1,Carver-Hawkeye Arena
+23,"Fri, Feb 7, 2020",8:00p,REG,,Maryland (9),Big Ten,17.82,L,66,75,,16,7,L 2,State Farm Center
+24,"Tue, Feb 11, 2020",9:00p,REG,,Michigan State,Big Ten,21.92,L,69,70,,16,8,L 3,State Farm Center
+25,"Sat, Feb 15, 2020",4:30p,REG,@,Rutgers,Big Ten,15.72,L,57,72,,16,9,L 4,Rutgers Athletic Center
+26,"Tue, Feb 18, 2020",6:30p,REG,@,Penn State (9),Big Ten,16.12,W,62,56,,17,9,W 1,Bryce Jordan Center
+27,"Mon, Feb 24, 2020",8:00p,REG,,Nebraska,Big Ten,2.41,W,71,59,,18,9,W 2,State Farm Center
+28,"Thu, Feb 27, 2020",8:00p,REG,@,Northwestern,Big Ten,5.35,W,74,66,,19,9,W 3,Welsh-Ryan Arena
+29,"Sun, Mar 1, 2020",2:00p,REG,,Indiana,Big Ten,15.07,W,67,66,,20,9,W 4,State Farm Center
+30,"Thu, Mar 5, 2020",7:00p,REG,@,Ohio State (19),Big Ten,19.37,L,63,71,,20,10,L 1,Value City Arena
+31,"Sun, Mar 8, 2020",7:00p,REG,,Iowa (18),Big Ten,16.07,W,78,76,,21,10,W 1,State Farm Center
