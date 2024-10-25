@@ -1,5 +1,5 @@
-,Type,G,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS
-0,Team,33.0,40.3,26.2,58.3,.448,17.2,33.5,.514,8.9,24.9,.359,13.2,18.7,.706,11.5,27.0,38.5,15.2,5.2,3.0,12.4,16.3,74.4
-1,Team-Rank,Unranked,Unranked,116th,149th,126th,244th,267th,126th,40th,66th,58th,132nd,118th,211th,61st,53rd,35th,43rd,311th,195th,205th,204th,84th
-2,Opponent,33.0,40.3,24.7,59.9,.413,19.1,42.2,.452,5.7,17.7,.320,12.1,16.9,.715,9.8,23.2,33.0,10.2,6.6,2.9,10.6,18.1,67.2
-3,Opponent-Rank,Unranked,Unranked,171st,281st,61st,279th,349th,26th,23rd,19th,92nd,160th,164th,175th,187th,66th,96th,316th,212th,127th,35th,291st,119th
+,Type,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS
+0,Team,26.2,58.3,.448,17.2,33.5,.514,8.9,24.9,.359,13.2,18.7,.706,11.5,27.0,38.5,15.2,5.2,3.0,12.4,16.3,74.4
+1,Team-Rank,116th,149th,126th,244th,267th,126th,40th,66th,58th,132nd,118th,211th,61st,53rd,35th,43rd,311th,195th,205th,204th,84th
+2,Opponent,24.7,59.9,.413,19.1,42.2,.452,5.7,17.7,.320,12.1,16.9,.715,9.8,23.2,33.0,10.2,6.6,2.9,10.6,18.1,67.2
+3,Opponent-Rank,171st,281st,61st,279th,349th,26th,23rd,19th,92nd,160th,164th,175th,187th,66th,96th,316th,212th,127th,35th,291st,119th
