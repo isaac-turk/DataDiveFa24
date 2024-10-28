@@ -45,7 +45,7 @@ Edit your files in your code editor as needed.
 - First, ensure your local branch is up to date with main
   ```bash
   git checkout main
-  git fetch origin main
+  git pull origin main
   ```
 - Switch to your feature branch then merge any changes
   ```bash
