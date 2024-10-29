@@ -1,18 +1,5 @@
-,Player,#,Class,Pos,Height,Weight,Hometown,High School,RSCI Top 100,Summary
-0,Player,#,Class,Pos,Height,Weight,Hometown,High School,RSCI Top 100,Summary
-1,Ayo Dosunmu,11,JR,G,6-5,200,"Chicago, IL",Morgan Park HS,32 (2018),"20.1 Pts, 6.3 Reb, 5.3 Ast"
-2,Kofi Cockburn,21,SO,C,7-0,285,"Kingston, Jamaica",Oak Hill Academy,43 (2019),"17.7 Pts, 9.5 Reb, 0.2 Ast"
-3,Trent Frazier,1,SR,G,6-2,175,"Wellington, FL",Wellington High School,,"10.2 Pts, 2.7 Reb, 2.7 Ast"
-4,Andre Curbelo,5,FR,G,6-1,175,"Vega Baja, Puerto Rico",Long Island Lutheran HS,45 (2020),"9.1 Pts, 4.0 Reb, 4.2 Ast"
-5,Adam Miller,44,FR,G,6-3,180,"Peoria, IL",Morgan Park HS,29 (2020),"8.3 Pts, 2.8 Reb, 0.8 Ast"
-6,Da'Monte Williams,20,SR,G,6-3,215,"Peoria, IL",Manual HS,,"5.5 Pts, 5.3 Reb, 1.7 Ast"
-7,Giorgi Bezhanishvili,15,JR,F,6-9,245,"Rustavi, Georgia",The Patrick School,,"5.1 Pts, 2.7 Reb, 0.4 Ast"
-8,Jacob Grandison,3,JR,G,6-6,205,"Oakland, CA",Phillips Exeter Academy,,"4.6 Pts, 3.4 Reb, 1.3 Ast"
-9,Coleman Hawkins,33,FR,F,6-10,200,"Sacramento, CA",Prolific Prep,,"1.4 Pts, 0.8 Reb, 0.4 Ast"
-10,Jermaine Hamlin,34,SO,C,6-10,235,"Lincoln, IL",Lincoln (IL),,"1.0 Pts, 0.4 Reb, 0.0 Ast"
-11,Tyler Underwood,32,SR,G,6-2,180,"Stillwater, OK",Nacogdoches High School,,"0.7 Pts, 0.3 Reb, 0.0 Ast"
-12,Zach Griffith,4,SR,F,6-6,220,"Fisher, IL",Fishers HS,,"0.6 Pts, 0.9 Reb, 0.0 Ast"
-13,Brandon Lieb,12,FR,C,7-0,210,"Deerfield, IL",Deerfield HS,,"0.8 Pts, 1.2 Reb, 0.2 Ast"
-14,Benjamin Bosmans-Verdonk,13,SO,F,6-8,235,"Lommel, Belgium",KA Pegasus (Belgium),,"0.3 Pts, 0.4 Reb, 0.0 Ast"
-15,Connor Serven,2,FR,F,6-9,215,"Bushnell, IL",St. Rita HS,,"0.3 Pts, 0.3 Reb, 0.0 Ast"
-16,Edgar Padilla,10,FR,G,6-1,165,"Carolina, Puerto Rico",San Ignacio de Loyola (PR),,"0.0 Pts, 0.0 Reb, 0.0 Ast"
+,,G,MP,FG,FGA,FG%,2P,2PA,2P%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS
+0,Team,31,40.5,29.3,58.7,.500,22.8,41.1,.554,6.5,17.5,.373,15.4,22.3,.690,10.4,29.6,40.0,16.3,5.7,2.8,13.0,17.7,80.5
+1,Rank,,,15th,136th,6th,4th,34th,22nd,249th,312th,35th,41st,25th,234th,128th,7th,12th,18th,252nd,218th,178th,146th,17th
+2,Opponent,31,40.5,24.8,60.4,.411,18.4,40.7,.451,6.5,19.7,.329,12.5,18.2,.687,8.3,22.1,30.4,11.2,6.7,3.8,11.5,19.6,68.6
+3,Rank,,,150th,273rd,55th,212th,322nd,22nd,77th,75th,129th,154th,183rd,75th,57th,20th,20th,330th,220th,302nd,46th,320th,127th
